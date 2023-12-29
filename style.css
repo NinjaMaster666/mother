@@ -2,7 +2,7 @@ body {
     background-image: url(https://i.pinimg.com/originals/f8/6d/13/f86d13ad5d6d8a0f1378535ce16ade0b.png);
     background-repeat: none;
     background-size: cover;
-    font-family: sans-serif;
+    font-family: cursive;
     opacity: 0;
     animation: ani 2.5s forwards;
     color: blue
